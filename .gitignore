@@ -43,3 +43,6 @@ next-env.d.ts
 
 # configuracion local de npm (shell de Windows)
 .npmrc
+/dist/
+.vinext/
+.cloudflare/
